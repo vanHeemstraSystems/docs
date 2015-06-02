@@ -1,7 +1,7 @@
 Title: README  
 Author: Willem van Heemstra  
-Affiliation: IceRobotics  
-Copyright: All rights reserved - IceRobotics
+Affiliation: van Heemstra Systems  
+Copyright: All rights reserved - van Heemstra Systems
 
 #docs/README.md
 ====
@@ -60,7 +60,7 @@ Skin is the **layout** layer.
 ##Licence
 (The MIT License)
 
-Copyright (C) 2014 IceRobotics Ltd support@icerobotics.com
+Copyright (C) 2015 van Heemstra Systems willem@vanheemstrasystems.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
